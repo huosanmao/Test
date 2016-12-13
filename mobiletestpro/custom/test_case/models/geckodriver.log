@@ -1,0 +1,80 @@
+1481007165869	geckodriver	INFO	Listening on 127.0.0.1:18826
+1481007167791	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.GoiqQb7QpyUr
+1481007167806	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481007167822	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18832
+1481007168942	Marionette	INFO	Listening on port 18832
+Vector smash protection is enabled.
+[Child 11052] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 8456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481007485089	geckodriver	INFO	Listening on 127.0.0.1:18867
+1481007487105	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.ztxU3vKNYcQZ
+1481007487105	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481007487127	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18873
+1481007488124	Marionette	INFO	Listening on port 18873
+Vector smash protection is enabled.
+[Child 5372] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 13120] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481016948852	geckodriver	INFO	Listening on 127.0.0.1:23366
+1481016950878	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.66ntfXHoDOsG
+1481016950888	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481016950921	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23372
+1481016951992	Marionette	INFO	Listening on port 23372
+Vector smash protection is enabled.
+[Child 11788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 9076] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481017080035	geckodriver	INFO	Listening on 127.0.0.1:23429
+1481017082064	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.POIbispqlO3o
+1481017082074	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481017082089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23435
+1481017083248	Marionette	INFO	Listening on port 23435
+Vector smash protection is enabled.
+[Child 12348] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 9304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481017296248	geckodriver	INFO	Listening on 127.0.0.1:23490
+1481017298272	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.ptZu4rvD3FZ2
+1481017298275	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481017298286	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23496
+1481017299400	Marionette	INFO	Listening on port 23496
+Vector smash protection is enabled.
+[Child 15464] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 12620] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481095174907	geckodriver	INFO	Listening on 127.0.0.1:14167
+1481095176917	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.DIfQ8URckUZA
+1481095176917	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481095176933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:14173
+1481095177935	Marionette	INFO	Listening on port 14173
+Vector smash protection is enabled.
+[Child 1388] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 5244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481095960189	geckodriver	INFO	Listening on 127.0.0.1:19126
+1481095962236	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.qtyR6J2MW5dU
+1481095962236	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481095962258	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19132
+1481095963612	Marionette	INFO	Listening on port 19132
+Vector smash protection is enabled.
+[Child 4260] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 12044] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481096051755	geckodriver	INFO	Listening on 127.0.0.1:19176
+1481096053791	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.HH3nODz8odc4
+1481096053794	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481096053794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19182
+1481096054971	Marionette	INFO	Listening on port 19182
+Vector smash protection is enabled.
+[Child 12656] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 3328] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481096160605	geckodriver	INFO	Listening on 127.0.0.1:19230
+1481096162607	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.3Vdd7huGjTWZ
+1481096162607	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481096162630	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19237
+1481096163786	Marionette	INFO	Listening on port 19237
+Vector smash protection is enabled.
+[NPAPI 6312] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6020] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481096362880	geckodriver	INFO	Listening on 127.0.0.1:19432
+1481096364871	mozprofile::profile	INFO	Using profile path C:\Users\afw\AppData\Local\Temp\rust_mozprofile.ab63nMvPm9Q4
+1481096364887	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481096364902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19438
+1481096366034	Marionette	INFO	Listening on port 19438
+Vector smash protection is enabled.
+[Child 6940] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 6160] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
