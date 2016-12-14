@@ -51,3 +51,4 @@ if __name__=='__main__':
     send_mail(file_path)
 
 
+print("hello,world")
